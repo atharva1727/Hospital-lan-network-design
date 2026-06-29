@@ -98,8 +98,6 @@ The system provides reliable communication among hospital departments while ensu
 
 # 📷 Project Preview
 
-📷 Project Preview
-
 🌐 Network Topology
 
 ![Network Topology](Images/network-topology.png)
