@@ -98,23 +98,17 @@ The system provides reliable communication among hospital departments while ensu
 
 # 📷 Project Preview
 
-## 🌐 Network Topology
+📷 Project Preview
+
+🌐 Network Topology
 
 ![Network Topology](Images/network-topology.png)
 
----
-
-## ⚙ Router Configuration
-
+⚙ Router Configuration
 ![Router Configuration](Images/router-configuration.png)
 
----
-
-## 📊 Cost Analysis
-
+📊 Cost Analysis
 ![Cost Analysis](Images/cost-analysis.png)
-
----
 
 # 🔧 IP Configuration
 
@@ -136,24 +130,7 @@ The system provides reliable communication among hospital departments while ensu
 
 ---
 
-# 📂 Repository Structure
 
-Hospital-LAN-Network-Design/
-
-├── Network-Simulation/
-│ └── Hospital_Network.pkt
-
-├── Images/
-│ ├── network-topology.png
-│ ├── router-configuration.png
-│ └── cost-analysis.png
-
-├── Report/
-│ └── CN_Project_Report.pdf
-
-└── README.md
-
----
 
 # 🚀 Future Enhancements
 
