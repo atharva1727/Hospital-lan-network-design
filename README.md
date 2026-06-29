@@ -4,7 +4,7 @@ Design and implementation of a scalable Hospital LAN infrastructure using Cisco 
 # 🏥 Hospital LAN Network Design & Implementation
 
 <p align="center">
-<img src="Images/network-topology.png" width="900"/>
+<img src="https://github.com/atharva1727/Hospital-lan-network-design/blob/main/page8.png" width="900"/>
 </p>
 
 <p align="center">
