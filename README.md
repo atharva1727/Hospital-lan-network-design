@@ -100,7 +100,7 @@ The system provides reliable communication among hospital departments while ensu
 
 🌐 Network Topology
 
-![Network Topology](Images/network-topology.png)
+![Network Topology](https://github.com/atharva1727/Hospital-lan-network-design/blob/main/page10.png)
 
 ⚙ Router Configuration
 ![Router Configuration](Images/router-configuration.png)
