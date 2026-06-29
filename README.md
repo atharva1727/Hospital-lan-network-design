@@ -103,7 +103,7 @@ The system provides reliable communication among hospital departments while ensu
 ![Network Topology](https://github.com/atharva1727/Hospital-lan-network-design/blob/main/page10.png)
 
 ⚙ Router Configuration
-![Router Configuration](Images/router-configuration.png)
+![Router Configuration](https://github.com/atharva1727/Hospital-lan-network-design/blob/main/9adFlhA65X9tagom4fpWs3SDRiAbihXw5ppPFqbR7nv3_tV9YdPXvpQJ4P1hQFVxofX49TWBQhoPwUmn-kxaoUgEm5PWhojjcCkvkguupZ9NJQjVQxQG5LrchkM4PRYHv6utA3rl2Fwa2mhARE_UaDerBLaARlAPgFDsh3gCn-pZK82DqksAs5_V66cR07ed.jpg)
 
 📊 Cost Analysis
 ![Cost Analysis](Images/cost-analysis.png)
